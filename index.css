@@ -1,0 +1,68 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+body{
+    background-color: black;
+}
+.btn{
+    height: 75px;
+    width: 75px;
+    border-radius: 50%;
+    background-color: red;
+}
+.grandparent{
+    display: flex;
+    justify-content: center;
+}
+.parent{
+    width: 72rem;
+    height: 20rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.child-1{
+    width: 15rem;
+    height: 15rem;
+    outline-style: dashed;
+    outline-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.child-2{
+    width: 15rem;
+    height: 15rem;
+    outline-style: dashed;
+    outline-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.child-3{
+    width: 15rem;
+    height: 15rem;
+    outline-style: dashed;
+    outline-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.child-4{
+    width: 15rem;
+    height: 15rem;
+    outline-style: dashed;
+    outline-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.navbar-parent{
+    outline-style: dashed;
+    outline-color: white;
+    width: 100%;
+    height: 20rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
